@@ -1,0 +1,63 @@
+[
+    {
+        "city": "Mumbai",
+        "country": "India",
+        "weather": {
+            "temperature": 30,
+            "description": "clear sky",
+            "humidity": 70,
+            "wind_speed": 3.5
+        }
+    },
+    {
+        "city": "Shivamogga",
+        "country": "India",
+        "weather": {
+            "temperature": 26,
+            "description": "scattered clouds",
+            "humidity": 72,
+            "wind_speed": 4.5
+        }
+    },
+    {
+        "city": "Delhi",
+        "country": "India",
+        "weather": {
+            "temperature": 35,
+            "description": "haze",
+            "humidity": 50,
+            "wind_speed": 2.5
+        }
+    },
+    {
+        "city": "Bangalore",
+        "country": "India",
+        "weather": {
+            "temperature": 25,
+            "description": "light rain",
+            "humidity": 80,
+            "wind_speed": 1.8
+        }
+    },
+    {
+        "city": "Chennai",
+        "country": "India",
+        "weather": {
+            "temperature": 32,
+            "description": "few clouds",
+            "humidity": 65,
+            "wind_speed": 2.0
+        }
+    },
+    {
+        "city": "Kolkata",
+        "country": "India",
+        "weather": {
+            "temperature": 33,
+            "description": "scattered clouds",
+            "humidity": 75,
+            "wind_speed": 3.0
+        }
+    }
+]
+    
