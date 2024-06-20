@@ -1,7 +1,7 @@
 import streamlit as st
 import json
 
-st.title("Weather Dashboard for Indian Cities")
+st.title("Mini Project by Sumukha Nadig and Tarun J")
 
 # Load the JSON data
 with open('weather.json', 'r') as f:
